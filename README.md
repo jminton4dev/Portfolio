@@ -46,10 +46,10 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cobidev/gatsby-simplefolio
+$ git clone https://github.com/jminton4dev/Portfolio
 
 # Go into the repository
-$ cd gatsby-simplefolio
+$ cd Portfolio
 
 # Remove current origin repository
 $ git remote remove origin
