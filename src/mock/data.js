@@ -28,18 +28,18 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'icellphones.jpg',
     title: 'HTML5 - i•cell Phones',
-    info: '',
+    info: 'The client was need of website and database to be fix after partner him split their way. I was able to restore his database of his clients and develop a new website.',
     info2: '',
     url: 'https://icellphones.com',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/jminton4dev/icellphones', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Angular - crypto tracking project',
+    info: 'Project that I was request to do to show that I can create angular frontend connecting to API.',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
@@ -47,11 +47,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Reactjs - Portfolio',
+    info: 'I want to show that I can create a website with reactjs so that I can demo my skills.',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/jminton4dev/Portfolio', // if no repo, the button will not show up
   },
 ];
 
