@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I decided to enter the field of design when I was in the 10th grade and I had to create a product. I developed an off the wall product that grabbed the class attention. We all had a big laugh at the product and I knew that day forward I wanted to use my talent to develop designs to influence people lives.',
   paragraphTwo: 'As technology has become more advanced, I decided to take my love for technology and expand my skills. I am not a designer but someone who develops code to understand the needs and desires of people. The application(s) that I create look pleasing to the eye as well as the functionality to the user needs.',
   paragraphThree: '',
-  resume: 'images/JeremiahMintonResume.pdf', // if no resume, the button will not show up
+  resume: 'http://jeremiahminton.com/img/JeremiahMintonResume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
