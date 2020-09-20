@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Jeremiah Minton | Full Stack/Mobile Developer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my React Portfolio website.', // e.g: Welcome to my website
+  description: 'Welcome to my Reactjs Portfolio website.', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I decided to enter the field of design when I was in the 10th grade and I had to create a product. I developed an off the wall product that grabbed the class attention. We all had a big laugh at the product and I knew that day forward I wanted to use my talent to develop designs to influence people lives.',
   paragraphTwo: 'As technology has become more advanced, I decided to take my love for technology and expand my skills. I am not a designer but someone who develops code to understand the needs and desires of people. The application(s) that I create look pleasing to the eye as well as the functionality to the user needs.',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'images/JeremiahMintonResume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -37,16 +37,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'cryptoTracker.jpg',
     title: 'Angular - crypto tracking project',
     info: 'Project that I was request to do to show that I can create angular frontend connecting to API.',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/jminton4dev/crypto_tracker', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'ReactjsPro.jpg',
     title: 'Reactjs - Portfolio',
     info: 'I want to show that I can create a website with reactjs so that I can demo my skills.',
     info2: '',
